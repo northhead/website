@@ -1,0 +1,49 @@
+nav:
+    - Home: index.md
+
+    - 快速上手: 
+      - Overview: getting-started/overview.md
+      - 核心概念: getting-started/intro/core-concept.md
+      - 快速上手: 
+        - Overview: getting-started/quick-start/quick-start.md
+        - Kubernetes环境: getting-started/quick-start/kubernetes.md
+      - 部署:
+        - Kubernetes部署: getting-started/install/kubernetes.md
+      - RoadMap:
+        - 2022: getting-started/roadmap/roadmap-2022.md
+
+    - 用户指南:
+      - Overview: user-guide/index.md
+      - 架构与特性: 
+        - 诞生背景: user-guide/architecture/background.md
+        - 设计架构: user-guide/architecture/core-arch.md
+        - 优势与特性: user-guide/architecture/advantages.md
+
+      - Kubernetes:
+        - Kubernetes下的网关配置: user-guide/use-in-kubernetes/general-usage.md
+
+      - 最佳实践:
+        - TODO: todo
+
+      - 监控报警:
+        - TODO: todo
+
+      - 企业实战:
+        - TODO: todo
+
+      - 运维排障:
+        - 快速排障指南: user-guide/troubleshot/log-collection.md
+        - 问题案例: user-guide/troubleshot/problems.md
+
+    - 组件配置:
+      - Overview: reference/index.md
+      - TODO: todo
+
+    - 开发手册:
+      - 代码贡献: developer-guide/contributing.md
+      - 本地开发: developer-guide/development.md
+      - 代码规范: developer-guide/code/coding-guide.md
+      - 版本发布流程: developer-guide/release.md
+
+    - Blog:
+      - HangoBlogUrl: https://hango-io.github.io/
