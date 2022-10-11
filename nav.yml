@@ -4,11 +4,11 @@ nav:
     - 快速上手: 
       - Overview: getting-started/overview.md
       - 核心概念: getting-started/intro/core-concept.md
-      - 快速上手: 
-        - Overview: getting-started/quick-start/quick-start.md
-        - Kubernetes环境: getting-started/quick-start/kubernetes.md
-      - 部署:
-        - Kubernetes部署: getting-started/install/kubernetes.md
+      - 快速接入: 
+        - 部署: 
+          - Kubernetes部署: getting-started/install/kubernetes.md
+        - 使用: getting-started/quick-start/quick-start.md
+        - 配置: getting-started/quick-start/config.md
       - RoadMap:
         - 2022: getting-started/roadmap/roadmap-2022.md
 
