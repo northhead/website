@@ -2,7 +2,8 @@
 
 ## 前置条件
 
-1.目前版本支持基于Kubernetes进行安装，如果没有Kubernetes环境，可以采用**[:material-arrow-right-thick: :material-kubernetes: Kubernetes](https://minikube.sigs.k8s.io/docs/start/)** 进行安装。对于Kubernetes的版本，我们要求版本至少是1.17 版本。\
+1.目前版本支持基于Kubernetes进行安装，如果没有Kubernetes环境，可以采用**[:material-arrow-right-thick: :material-kubernetes: Kubernetes](https://minikube.sigs.k8s.io/docs/start/)** 进行安装。对于Kubernetes的版本，我们要求版本至少是1.17 版本。
+
 2.请确保已安装helm。
 
 ### 安装hango网关
