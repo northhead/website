@@ -1,5 +1,5 @@
 ---
 template: home.html
-title: Home
+title: Hango
 hide_next: true
 ---
