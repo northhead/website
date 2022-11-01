@@ -19,16 +19,29 @@ nav:
         - 设计架构: user-guide/architecture/core-arch.md
         - 优势与特性: user-guide/architecture/advantages.md
 
-      - Kubernetes:
-        - Kubernetes下的网关配置: user-guide/use-in-kubernetes/general-usage.md
-
       - 最佳实践:
-        - TODO: todo
+        - 服务与路由:
+          - 服务管理: user-guide/best-practices/service-route/service.md
+          - 路由管理: user-guide/best-practices/service-route/route.md
+          - Dubbo Bridge: user-guide/best-practices/service-route/dubbo-bridge.md
+          - Kubernetes服务发现: user-guide/best-practices/service-route/kubernetes.md
+          - Eureka服务发现: user-guide/best-practices/service-route/eureka.md
+          - Nacos服务发现: user-guide/best-practices/service-route/nacos.md
+        - 流量管理:
+          - 限流: user-guide/best-practices/traffic-manage/rate-limit.md
+          - 熔断: user-guide/best-practices/traffic-manage/circuit-breaker.md
+          - 降级: user-guide/best-practices/traffic-manage/downgrade.md
+        - 安全:
+          - CORS: user-guide/best-practices/security/cors.md
+          - Dos: user-guide/best-practices/security/Dos.md
+          - 黑白名单: user-guide/best-practices/security/black-white.md
+          - 认证鉴权: user-guide/best-practices/security/authentication-authorization.md
+        - 可观测:
+          - 日志: user-guide/best-practices/observability/loggie.md
+          - 指标: user-guide/best-practices/observability/Prometheus.md
+          - 链路: user-guide/best-practices/observability/tracing.md
 
-      - 监控报警:
-        - TODO: todo
-
-      - 企业实战:
+      - 扩展开发:
         - TODO: todo
 
       - 运维排障:
