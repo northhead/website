@@ -42,7 +42,7 @@ nav:
           - 链路: user-guide/best-practices/observability/tracing.md
 
       - 扩展开发:
-        - TODO: todo
+        - 自定义插件使用: user-guide/extension/plugin.md
 
       - 运维排障:
         - 快速排障指南: user-guide/troubleshot/log-collection.md
