@@ -1,6 +1,6 @@
 INHERIT: nav.yml
 
-site_name: ' '
+site_name: 'Hango'
 repo_url: https://github.com/hango-io/hango-gateway
 repo_name: hango-gateway
 site_description: Hango Documentation
